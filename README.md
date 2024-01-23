@@ -34,7 +34,7 @@
 ## Colab
 | Colab                                                                                                                                                                          | Info               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/drive/1gTiJrHKE-2EZPbe9UwMgZYrfEUsGsNkX?usp=sharing | Laba1 |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gTiJrHKE-2EZPbe9UwMgZYrfEUsGsNkX?usp=sharing) | Laba1 |
 
 ## Результат :tv:
 Мы прогнозировали три компании акций: **Alphabet (GOOG)**, **BMW (BMW.DE)**, **Société Générale Société (GLE.PA)**
