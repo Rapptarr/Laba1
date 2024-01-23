@@ -36,6 +36,6 @@
 ## Результат.
 В конечном итоге мы получаем список с наиболее близкими фильмам по предпочтениям зрителей.
 1. **Фильмы**
-   ![xxxx]([https://sun21-2.userapi.com/impg/s1eypwgZ9mPygLHkh0o1AqDRcfGkxW2-RvOrKQ/W0x-9ilUQkQ.jpg?size=570x454&quality=96&sign=33bfa869934f3e8ef4f0eb5ffc6652c6&type=album](https://sun9-1.userapi.com/impg/AilDVz-BS8dfwHLo6R8KhFHahQ5xyzRq2ZCEUA/c0lTbK-Ylt4.jpg?size=442x352&quality=96&sign=763446c626c1450c646b8aa4f8097ce2&type=album)https://sun9-1.userapi.com/impg/AilDVz-BS8dfwHLo6R8KhFHahQ5xyzRq2ZCEUA/c0lTbK-Ylt4.jpg?size=442x352&quality=96&sign=763446c626c1450c646b8aa4f8097ce2&type=album)
+   ![xxxx](https://sun9-1.userapi.com/impg/AilDVz-BS8dfwHLo6R8KhFHahQ5xyzRq2ZCEUA/c0lTbK-Ylt4.jpg?size=442x352&quality=96&sign=763446c626c1450c646b8aa4f8097ce2&type=album)
   
 
