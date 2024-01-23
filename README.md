@@ -47,8 +47,8 @@
 4. **Обучение модели**:
    * Для обучения модели мы будем использовать алгоритм k-ближайших соседей. Этот алгоритм решает разные задачи, в частности, с его помощью можно заниматься регрессией (класс KNeighborsRegressor) и классификацией (класс KNeighborsClassifier).
    * Для наших целей нам достаточно измерить расстояние между объектами. В этом нам поможет класс машинного обучения NearestNeighbors.
-   * ```knn = NearestNeighbors(metric = 'cosine', algorithm = 'brute', n_neighbors = 20, n_jobs = -1)
-   * knn.fit(csr_data)```
+   * ```knn = NearestNeighbors(metric = 'cosine', algorithm = 'brute', n_neighbors = 20, n_jobs = -1)```
+   * ```knn.fit(csr_data)```
 
 5. **Поиск и рекомендации**:
    * Для получения рекомендаций был выбран фильм 'Matrix'.
