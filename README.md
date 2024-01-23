@@ -27,41 +27,15 @@
    * Для получения рекомендаций был выбран фильм 'Matrix'.
    * Находим индексы и расстояния фильмов, схожих с выбранным фильмом.
    * С помощью цикла был создан список, содержащий название фильма и расстояние до него.
-
-7. **Резь**:
-   * Сценарий пытается предсказать цену акции на следующий день, используя последние 60 дней данных.
   
 ## Colab
 | Colab                                                                                                                                                                          | Info               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gTiJrHKE-2EZPbe9UwMgZYrfEUsGsNkX?usp=sharing) | Laba1 |
 
-## Результат :tv:
-Мы прогнозировали три компании акций: **Alphabet (GOOG)**, **BMW (BMW.DE)**, **Société Générale Société (GLE.PA)**
-1. **Акция от BMW**
-   * Мы бралиобщую выборку с 1 января 2020 года по 1 января 2024 года и  вот как он их прогнозировал:
-   ![xxxx](https://sun21-2.userapi.com/impg/s1eypwgZ9mPygLHkh0o1AqDRcfGkxW2-RvOrKQ/W0x-9ilUQkQ.jpg?size=570x454&quality=96&sign=33bfa869934f3e8ef4f0eb5ffc6652c6&type=album)
-
-   * Как мы видим он не так точно придерживается основному ценновому сегменту
-
-   * Вот предикт на следующий день (прогноз на 08.01.2024):
-   ![xxxx](https://sun9-23.userapi.com/impg/mlonJbhOeXNweWt1Qv3ytytOgYlVK1X3qegn5A/-dAWUJEixyY.jpg?size=832x49&quality=96&sign=8f1f80a9c29f682d49f1fb71c1badc74&type=album)
-
-2. **Акция от Google**
-   * Мы бралиобщую выборку с 1 января 2020 года по 1 января 2024 года и  вот как он их прогнозировал:
-     ![xxxx](https://sun9-1.userapi.com/impg/SAQP_cJcoyLs77CrVuMxCoKnwZOoTx_atu-7NA/XcC8MVdWgLY.jpg?size=571x454&quality=96&sign=7a4e9bcc16b67712bce4aac790815ffd&type=album)
-     
-   * Как мы видим здесь уже результат лучше - это говорит о том, что эта компания менее зависимая от внешних факторов
-
-   * Вот предикт на следующий день (прогноз на 08.01.2024):
-   ![xxxx](https://sun9-79.userapi.com/impg/Y1Fx_7IFvqhQ7PBK1NmfGWI2iV-_HRz0ElVXBw/1rxDT9mdNUs.jpg?size=972x50&quality=96&sign=551d7518883e7f0edd7ab5dddb9a6d43&type=album)
-
-3. **Акция от Société Générale Société**
-   * Мы бралиобщую выборку с 1 января 2020 года по 1 января 2024 года и  вот как он их прогнозировал:
-   ![xxxx](https://sun9-77.userapi.com/impg/QdY2Q4AhRQw7zckOjGDkqIhujfIXsIPke3URIw/3M8y4DL6oQU.jpg?size=559x452&quality=96&sign=e136d4f9b06fd1978ede99749a09db85&type=album)
-
-   * Как мы видим здесь результат еще лучше
-
-   * Вот предикт на следующий день (прогноз на 08.01.2024):
-   ![xxxx](https://sun9-15.userapi.com/impg/IwLTMtd5-cjWzCyayZudI28HL5Z61ts9qnKv4A/lASU_EDy8LA.jpg?size=746x51&quality=96&sign=ca7ab5191d6cd2740260f639f83f4878&type=album)
+## Результат.
+В конечном итоге мы получаем список с наиболее близкими фильмам по предпочтениям зрителей.
+1. **Фильмы**
+   ![xxxx]([https://sun21-2.userapi.com/impg/s1eypwgZ9mPygLHkh0o1AqDRcfGkxW2-RvOrKQ/W0x-9ilUQkQ.jpg?size=570x454&quality=96&sign=33bfa869934f3e8ef4f0eb5ffc6652c6&type=album](https://sun9-1.userapi.com/impg/AilDVz-BS8dfwHLo6R8KhFHahQ5xyzRq2ZCEUA/c0lTbK-Ylt4.jpg?size=442x352&quality=96&sign=763446c626c1450c646b8aa4f8097ce2&type=album)https://sun9-1.userapi.com/impg/AilDVz-BS8dfwHLo6R8KhFHahQ5xyzRq2ZCEUA/c0lTbK-Ylt4.jpg?size=442x352&quality=96&sign=763446c626c1450c646b8aa4f8097ce2&type=album)
+  
 
