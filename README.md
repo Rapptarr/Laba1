@@ -36,5 +36,6 @@
 ## Результат.
    ![xxxx](https://sun9-1.userapi.com/impg/AilDVz-BS8dfwHLo6R8KhFHahQ5xyzRq2ZCEUA/c0lTbK-Ylt4.jpg?size=442x352&quality=96&sign=763446c626c1450c646b8aa4f8097ce2&type=album)
   * В конечном итоге мы получаем список с наиболее близкими фильмами по предпочтениям зрителей.
+  * Fight Club наиболее рекомендован к просмотру и схож с Matrix, который мы выбрали в качестве "метки" для получения рекомендаций. Дальше идёт Star Wars: Episode V - The Empire Strikes Back и так далее по списку.
   
 
